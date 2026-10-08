@@ -1,0 +1,658 @@
+{
+  "music.game": {
+    "sounds": [
+      {
+        "name": "music/game/aaron_kell_-_oceans_remix",
+        "stream": true
+      },
+      {
+        "name": "music/game/amber_plaster_-_hello",
+        "stream": true
+      },
+      {
+        "name": "music/game/amber_plaster_-_how_far_i_will_go",
+        "stream": true
+      },
+      {
+        "name": "music/game/amber_plaster_-_star_trails",
+        "stream": true
+      },
+      {
+        "name": "music/game/amber_plaster_-_the_geocentric_song",
+        "stream": true
+      },
+      {
+        "name": "music/game/amish_space_station_and_eric_dubay_-_theory_of_revolution",
+        "stream": true
+      },
+      {
+        "name": "music/game/bk_-_just_the_facts",
+        "stream": true
+      },
+      {
+        "name": "music/game/blair_-_no_matter_where_truth_leads",
+        "stream": true
+      },
+      {
+        "name": "music/game/brainstorm_-_flat_earth",
+        "stream": true
+      },
+      {
+        "name": "music/game/bs_detector_-_please_look",
+        "stream": true
+      },
+      {
+        "name": "music/game/chief_crow_and_the_flat_earth_worms_-_airship",
+        "stream": true
+      },
+      {
+        "name": "music/game/chief_crow_and_the_flat_earth_worms_-_auto-hoax",
+        "stream": true
+      },
+      {
+        "name": "music/game/chief_crow_and_the_flat_earth_worms_-_dinosaurs_in_space",
+        "stream": true
+      },
+      {
+        "name": "music/game/chief_crow_and_the_flat_earth_worms_-_the_edge_is_in_your_mind",
+        "stream": true
+      },
+      {
+        "name": "music/game/chief_crow_-_mt_meru",
+        "stream": true
+      },
+      {
+        "name": "music/game/chief_crow_-_space_is_fake",
+        "stream": true
+      },
+      {
+        "name": "music/game/chief_crow_-_super_flat_computer_earth",
+        "stream": true
+      },
+      {
+        "name": "music/game/chief_crow_-_where_is_the_curve",
+        "stream": true
+      },
+      {
+        "name": "music/game/christian_knapp_-_fingflat",
+        "stream": true
+      },
+      {
+        "name": "music/game/christian_knapp_-_not_a_globe",
+        "stream": true
+      },
+      {
+        "name": "music/game/christopher_mccracken_feat_wesblaze_-_satelloon_remix",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_dont_believe_in_gravity",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_dont_let_them_take_your_mind",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_do_you_still_believe_we_went_to_the_moon",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_i_dont_wanna_talk_about_nasa",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_lies",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_look_up",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_nasa_is_faking_everything",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_no_photographs_of_earth",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_puppet_show",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_space_is_fake",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_the_nasa_man_can",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_welcome_to_the_satellite_hoax",
+        "stream": true
+      },
+      {
+        "name": "music/game/conspiracy_music_guru_-_why_do_you_trust_these_liars",
+        "stream": true
+      },
+      {
+        "name": "music/game/darren_nesbit_-_wont_go_back_to_the_ball",
+        "stream": true
+      },
+      {
+        "name": "music/game/dave_-_hidden_in_the_winds",
+        "stream": true
+      },
+      {
+        "name": "music/game/david_j_caron_-_awakening",
+        "stream": true
+      },
+      {
+        "name": "music/game/david_j_caron_-_ends_of_the_earth",
+        "stream": true
+      },
+      {
+        "name": "music/game/david_j_caron_-_i_am_infinity",
+        "stream": true
+      },
+      {
+        "name": "music/game/david_j_caron_-_impenetrable_mystery",
+        "stream": true
+      },
+      {
+        "name": "music/game/david_j_caron_-_somewhere_nowhere",
+        "stream": true
+      },
+      {
+        "name": "music/game/david_j_caron_-_stratoscurious",
+        "stream": true
+      },
+      {
+        "name": "music/game/david_j_caron_-_until_an_arc_appears",
+        "stream": true
+      },
+      {
+        "name": "music/game/delano_-_432hz_flat_earth_-_scientists_say",
+        "stream": true
+      },
+      {
+        "name": "music/game/destiny_lab_-_fee_fi_fo_fum",
+        "stream": true
+      },
+      {
+        "name": "music/game/earth_is_flat_-_basketball",
+        "stream": true
+      },
+      {
+        "name": "music/game/erbh_parody_-_the_globe_vs_flat_earth",
+        "stream": true
+      },
+      {
+        "name": "music/game/flat_smackin_-_epic_remix",
+        "stream": true
+      },
+      {
+        "name": "music/game/flatty_mcflatterson_-_flat_world",
+        "stream": true
+      },
+      {
+        "name": "music/game/flatty_mcflatterson_-_living_in_the_truman_show",
+        "stream": true
+      },
+      {
+        "name": "music/game/flatty_mcflatterson_-_simple_plan",
+        "stream": true
+      },
+      {
+        "name": "music/game/flatty_mcflatterson_-_sound_of_science",
+        "stream": true
+      },
+      {
+        "name": "music/game/flatty_mcflatterson_-_spinnin_neath_my_feet_tonight",
+        "stream": true
+      },
+      {
+        "name": "music/game/flatty_mcflatterson_-_the_truther",
+        "stream": true
+      },
+      {
+        "name": "music/game/frhetoric_-_sheeple",
+        "stream": true
+      },
+      {
+        "name": "music/game/glowbirth_-_rap_song",
+        "stream": true
+      },
+      {
+        "name": "music/game/gmc_feat_hazakim_and_dean_odle_-_pseudoscience",
+        "stream": true
+      },
+      {
+        "name": "music/game/guru_-_my_journey",
+        "stream": true
+      },
+      {
+        "name": "music/game/honey_b_-_the_world_is_ours",
+        "stream": true
+      },
+      {
+        "name": "music/game/indiejestion_-_mind_control_to_major_tom",
+        "stream": true
+      },
+      {
+        "name": "music/game/indiejestion_-_paint_it_flat",
+        "stream": true
+      },
+      {
+        "name": "music/game/i_needed_this_dave_-_we_march_on_to_mount_zion",
+        "stream": true
+      },
+      {
+        "name": "music/game/ione_angeles_-_they_say",
+        "stream": true
+      },
+      {
+        "name": "music/game/isaac_chavez_and_tony_stover_-_lean_flat",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_dont_let_flat_earth",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_go_on_home_angry_glober",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_im_not_spinning",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_i_wanna_go_to_jupiderp",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_jesus_in_the_clouds",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_looking_for_the_edge",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_rich_guys_like_rockets",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_twinkle",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_welcome_to_the_show",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_welcome_to_the_show_remix",
+        "stream": true
+      },
+      {
+        "name": "music/game/isa_mahalski_-_earth_music_-_what_they_say",
+        "stream": true
+      },
+      {
+        "name": "music/game/jaba_and_friends_-_flat_earth",
+        "stream": true
+      },
+      {
+        "name": "music/game/jade_novah_-_the_earth_is_flat",
+        "stream": true
+      },
+      {
+        "name": "music/game/jake_gibson_-_there_are_no_satellites_in_space",
+        "stream": true
+      },
+      {
+        "name": "music/game/jake_james_feat_jazmine_french_-_psalm_23",
+        "stream": true
+      },
+      {
+        "name": "music/game/joshua_sarles_-_in_the_firmament",
+        "stream": true
+      },
+      {
+        "name": "music/game/joshua_sarles_-_outer_space_is_science_fiction",
+        "stream": true
+      },
+      {
+        "name": "music/game/keith_atwood_and_yelapa_oliver_and_gabriela_coniglio_-_spinning_blue_ball",
+        "stream": true
+      },
+      {
+        "name": "music/game/kiko_-_what_i_know",
+        "stream": true
+      },
+      {
+        "name": "music/game/kim_anderson_-_psalm_19_-_a_geocentric_scripture_song",
+        "stream": true
+      },
+      {
+        "name": "music/game/krista_detor_-_flat_earth_diary",
+        "stream": true
+      },
+      {
+        "name": "music/game/lazydiamond_-_blinked_too_soon",
+        "stream": true
+      },
+      {
+        "name": "music/game/lazydiamond_-_earth_cant_be_moved",
+        "stream": true
+      },
+      {
+        "name": "music/game/lazydiamond_-_no_real_satellites",
+        "stream": true
+      },
+      {
+        "name": "music/game/lc_king_and_overstance_-_world_goes_round",
+        "stream": true
+      },
+      {
+        "name": "music/game/lucci_-_just_another_truth_show",
+        "stream": true
+      },
+      {
+        "name": "music/game/mc_lil_pen_-_earth_is_not_a_globe",
+        "stream": true
+      },
+      {
+        "name": "music/game/mic_-_flat_smacked",
+        "stream": true
+      },
+      {
+        "name": "music/game/nevermore_-_flat_earth_realization",
+        "stream": true
+      },
+      {
+        "name": "music/game/odd_tv_-_cartoon_ball",
+        "stream": true
+      },
+      {
+        "name": "music/game/odd_tv_-_dear_nasa_why_are_you_lying",
+        "stream": true
+      },
+      {
+        "name": "music/game/odd_tv_feat_k-rino_and_tony_mac_-_end_of_the_tunnel",
+        "stream": true
+      },
+      {
+        "name": "music/game/odd_tv_feat_payday_monsanto_-_they_live_we_sleep",
+        "stream": true
+      },
+      {
+        "name": "music/game/optimiztiq_-_blood_runs_deep",
+        "stream": true
+      },
+      {
+        "name": "music/game/payday_monsanto_feat_eric_dubay_-_life_on_the_ball",
+        "stream": true
+      },
+      {
+        "name": "music/game/pirate_mantra_-_flat_horizons",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_december_4th_2002",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_deep_waters",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_dont_quit",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_earth_is_flat_nasa_lies",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_feat_marv_won_-_too_late",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_hear_me",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_i_keep_it_real",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_just_fine",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_lightning_moves",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_research_flat_earth",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_that_poison",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_the_ones_that_ride_2",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_the_ones_that_ride",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_together",
+        "stream": true
+      },
+      {
+        "name": "music/game/p_seize_-_trains_planes_and_automobiles",
+        "stream": true
+      },
+      {
+        "name": "music/game/robcomrobcom_-_the_earth_is_flat_rap",
+        "stream": true
+      },
+      {
+        "name": "music/game/rockmasta_-_flat_earth_warriors",
+        "stream": true
+      },
+      {
+        "name": "music/game/rucka_rucka_ali_-_not_round",
+        "stream": true
+      },
+      {
+        "name": "music/game/shyanne_-_gravity_irm_theme",
+        "stream": true
+      },
+      {
+        "name": "music/game/shyanne_-_gravity",
+        "stream": true
+      },
+      {
+        "name": "music/game/steve_falconer_and_alex_michael_-_chains",
+        "stream": true
+      },
+      {
+        "name": "music/game/steve_falconer_and_alex_michael_-_nothing",
+        "stream": true
+      },
+      {
+        "name": "music/game/steve_falconer_and_alex_michael_-_our_chemical_skies",
+        "stream": true
+      },
+      {
+        "name": "music/game/steve_falconer_and_alex_michael_-_youll_wake_up_someday",
+        "stream": true
+      },
+      {
+        "name": "music/game/tabatha_lynn_hummer_-_never_a_curve",
+        "stream": true
+      },
+      {
+        "name": "music/game/the_limits_of_our_world_-_why_the_firmament_is_the_foundation_of_faith",
+        "stream": true
+      },
+      {
+        "name": "music/game/the_weeknd_-_the_flat_universe",
+        "stream": true
+      },
+      {
+        "name": "music/game/trey_clark_-_the_edge_of_the_earth_-_saturn_and_jupiter",
+        "stream": true
+      },
+      {
+        "name": "music/game/unsenses_and_revalue_feat_sik-wit-it_-_flat_earth",
+        "stream": true
+      },
+      {
+        "name": "music/game/wesblaze_-_flat_smackin",
+        "stream": true
+      },
+      {
+        "name": "music/game/wesblaze_-_wake_up_stressed_out_remix",
+        "stream": true
+      },
+      {
+        "name": "music/game/white_and_nerdy_-_round_and_curvy",
+        "stream": true
+      },
+      {
+        "name": "music/game/yaki_clone_-_sound_of_science",
+        "stream": true
+      },
+      {
+        "name": "music/game/zane_-_flat_brothas",
+        "stream": true
+      },
+      {
+        "name": "music/game/zane_-_flat_earth_boys",
+        "stream": true
+      },
+      {
+        "name": "music/game/zane_-_flat_to_the_bone",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_7_days",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_a_song_for_the_children",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_boundless_truth",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_celestial_circus",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_evolution_disillusion",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_feat_luna_-_aether",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_feat_luna_-_common_sense",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_feat_luna_-_oh_antarctica",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_feat_luna_-_seven_zetetic_virtues",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_globular_dogma",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_grace",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_lost_empire",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_north_pole_mystery",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_not_down_under",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_silent_frequenzy",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_silent_truth",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_survivors_anthem",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_the_judgement_of_the_skies",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_the_lab_coat_masquerade",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_the_lonely_revolution",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_the_midnight_sun",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_the_silent_canopy",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_they_take_it_all",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_they_told_me_lies",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_what_is_the_moon_-_a_lunar_trilogy",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_and_analemma_-_zetetic_flow",
+        "stream": true
+      },
+      {
+        "name": "music/game/zetetic_-_where_is_my_mind",
+        "stream": true
+      }
+    ]
+  }
+}
